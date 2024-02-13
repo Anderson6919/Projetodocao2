@@ -8,8 +8,8 @@
   <body>
     <h1>Contato</h1>
     <br>
-    <a href="https://github.com/evesweet/projeto-2/blob/65f5395d0e63eb29cee303b495567056b150caae/criando-um-site-com-navegacao.md">Página Inicial</a>
-    <a href="https://github.com/evesweet/projeto-2/blob/9253214cca5d875ebbfb7ed14b352a9c33246a9a/servicos.md">Serviços</a>
+    <a href="https://github.com/Anderson6919/Projetodocao2/blob/1f2600503c53f3af266dc4be0012809cbbaa86e5/pagina-inicial.md">Página Inicial</a>
+    <a href="https://github.com/Anderson6919/Projetodocao2/blob/1f2600503c53f3af266dc4be0012809cbbaa86e5/servicos.md">Serviços</a>
     <a href="">Contato</a><br>
     <h2>Entre em contato conosco:</h2>
     <br>
