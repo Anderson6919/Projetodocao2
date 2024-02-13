@@ -8,8 +8,8 @@
   <body>
     <h1>TechWare Solutions</h1>
     <a href="">Página Inicial</a>
-    <a href="">Serviços</a>
-    <a href="">Contato</a>
+    <a href="https://github.com/Anderson6919/Projetodocao2/blob/d4089f2e8364fe6c4ca6ebb9ca3156acaf77812e/servicos.md">Serviços</a>
+    <a href="https://github.com/Anderson6919/Projetodocao2/blob/d4089f2e8364fe6c4ca6ebb9ca3156acaf77812e/contato.md">Contato</a>
     <h2>Bem-vindo à TechWare Solutions<br></h2>
     <p>Nós somos especializados em soluções de tecnologia para empresas de todos os tamanhos.</p>
     <br>
