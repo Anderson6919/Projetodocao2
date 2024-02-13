@@ -10,7 +10,7 @@
     <br>
     <a href="https://github.com/evesweet/projeto-2/blob/65f5395d0e63eb29cee303b495567056b150caae/criando-um-site-com-navegacao.md">Página Inicial</a>
     <a href="https://github.com/evesweet/projeto-2/blob/9253214cca5d875ebbfb7ed14b352a9c33246a9a/servicos.md">Serviços</a>
-    <a href="https://github.com/evesweet/projeto-2/blob/29e5d743c4a7569b49aa015b8148ef706f3fad2f/contato.md">Contato</a><br>
+    <a href="">Contato</a><br>
     <h2>Entre em contato conosco:</h2>
     <br>
     <p>Telefone: (12) 3456-7890</p>
