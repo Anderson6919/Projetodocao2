@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>projeto2</title>
+  </head>
+  <body>
+    <h1>TechWare Solutions</h1>
+    <a href="">Página Inicial</a>
+    <a href="">Serviços</a>
+    <a href="">Contato</a>
+    <h2>Bem-vindo à TechWare Solutions<br></h2>
+    <p>Nós somos especializados em soluções de tecnologia para empresas de todos os tamanhos.</p>
+    <br>
+    <p>Oferecemos serviços personalizados para atender às necessidades específicas do seu negócio.</p>
+  </body>
+</html>
