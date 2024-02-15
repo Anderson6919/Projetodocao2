@@ -7,9 +7,9 @@
   </head>
   <body>
     <h1>Nossos Serviços</h1>
-    <a href="./a.html">Página Inicial</a>
-    <a href="./index.html">Serviços</a>
-    <a href="./c.html">Contato</a>
+    <a href="a.md">Página Inicial</a>
+    <a href="b.md">Serviços</a>
+    <a href="c.md">Contato</a>
     <br>
     <h2>Desenvolvimento de Software</h2>
     <br>
