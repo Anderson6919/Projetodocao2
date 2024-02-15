@@ -8,9 +8,9 @@
   <body>
     <h1>Contato</h1>
     <br>
-    <a href="./a.html">Página Inicial</a>
-    <a href="./b.html">Serviços</a>
-    <a href="./index.html">Contato</a><br>
+    <a href="a.md">Página Inicial</a>
+    <a href="b.md">Serviços</a>
+    <a href="c.md">Contato</a><br>
     <h2>Entre em contato conosco:</h2>
     <br>
     <p>Telefone: (12) 3456-7890</p>
